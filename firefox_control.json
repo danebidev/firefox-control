@@ -1,0 +1,9 @@
+{
+    "name": "firefox_control",
+    "path": "/home/danebidev/programming/projects/firefox/daemon/target/release/daemon",
+    "description": "Control the Firefox browser with unix sockets",
+    "type": "stdio",
+    "allowed_extensions": [
+        "firefox-control-daemon@example.com"
+    ]
+}
